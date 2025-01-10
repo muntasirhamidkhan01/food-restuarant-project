@@ -6,7 +6,7 @@
   font-variation-settings:
     "wdth" 100;
 }
-*{
+*{  font-family: "Azeret Mono", serif;
     padding: 0px;
     margin: 0 auto
 }
@@ -38,7 +38,7 @@
 }
 .container .content .title{
         color: rgb(255, 255, 255);
-    font-family: Work Sans;
+    font-family: ;
     font-size: 64px;
     font-weight: 700;
     line-height: 80px;
